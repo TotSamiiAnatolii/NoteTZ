@@ -6,10 +6,7 @@
 #### Options:
 
 
-
-
 * Create notes
-* Get up-to-date course data
 * Saving notes
 * Editing Notes
 * Deleting notes
